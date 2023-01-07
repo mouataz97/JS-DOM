@@ -19,6 +19,8 @@ submitButton.addEventListener('click', ($event) => {
     submitFormData(post);
 });
 
+
+
 function makeRequest(data){
     return new Promise((resolve,reject) => {
         let request = new XMLHttpRequest();
