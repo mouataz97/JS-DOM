@@ -1,0 +1,19 @@
+{
+  "name": "javascritp-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouataz97/JS-DOM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouataz97/JS-DOM/issues"
+  },
+  "homepage": "https://github.com/mouataz97/JS-DOM#readme"
+}
